@@ -9,5 +9,5 @@
     - Executable application 
 - Mod2Pseudocode.txt (Ignored)
     - Pseudocode of application dictated in assignment
-- Screenshot of program execution.png
+- Screenshot of program execution.png (Ignored)
     - Screenshot of application execution
